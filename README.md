@@ -11,7 +11,7 @@
 * Add ```start menu``` to your ```server.cfg``` file
 
 ## Dependency
-* [Target]([../target](https://github.com/Naikzer/HUD-GTAVRP/tree/master/target))
+* [Target](https://github.com/Naikzer/HUD-GTAVRP/tree/master/target)
 
 ## Create menu
 
@@ -68,4 +68,4 @@ end)
 
 ## Screen
 
-[Inventory Screen](https://user-images.githubusercontent.com/52666643/61137488-e50f2b80-a4c5-11e9-8a87-c584f6fcd0a5.jpg)
+![Inventory Screen](https://user-images.githubusercontent.com/52666643/61137488-e50f2b80-a4c5-11e9-8a87-c584f6fcd0a5.jpg)
