@@ -11,7 +11,7 @@
 * Add ```start menu``` to your ```server.cfg``` file
 
 ## Dependency
-* [Target](../target)
+* [Target]([../target](https://github.com/Naikzer/HUD-GTAVRP/tree/master/target))
 
 ## Create menu
 
@@ -66,15 +66,6 @@ end)
 * ```ui/front.js``` JS for HTML interaction
 * ```ui/styles.scss``` use this to edit CSS if you are comfortable with CSS pre-processor (must be compiled)
 
-## Credits & licence
+## Screen
 
-Nicolas Marx (alias [Naiko](https://twitter.com/naikzer_)) is the only owner of these scripts. You are free to use and edit the source code as you want for personal or commercial use. 
-
-## Other UIs
-
-* [Character Creator](../skincreator)
-* [Menu](../menu)
-* [Speedometer](../speedometer) 
-* [Inventory]() 
-* [Messaging service]() 
-* [Hunger/Thirst](../hungerthirst) 
+[Inventory Screen](https://user-images.githubusercontent.com/52666643/61137488-e50f2b80-a4c5-11e9-8a87-c584f6fcd0a5.jpg)
